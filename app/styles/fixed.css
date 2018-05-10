@@ -1,0 +1,155 @@
+﻿
+
+html, body, .appView { width: 320px; height: 568px; }
+
+.dialogView .modal-dialog { width: 320px; margin: 0 auto; }
+
+#CalenderMainPage { position: absolute; top: 24px; left: 16px; width: 80px; height: 72px; }
+
+#RedCafeMainPage { position: absolute; top: 24px; left: 120px; width: 80px; height: 72px; }
+
+#Entrata { position: absolute; top: 24px; left: 224px; width: 80px; height: 72px; }
+
+#MainMainPage { position: absolute; top: 136px; left: 96px; width: 208px; height: 280px; }
+
+#Stuff2 { position: absolute; top: 472px; left: 16px; width: 80px; height: 72px; }
+
+#CampusMap { position: absolute; top: 472px; left: 120px; width: 80px; height: 72px; }
+
+#Stuff4 { position: absolute; top: 472px; left: 224px; width: 80px; height: 72px; }
+
+#Button8 { position: absolute; top: 208px; left: 16px; width: 69px; height: 96px; }
+
+#Button7 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Button2 { position: absolute; top: 48px; left: 40px; width: 213px; height: 152px; }
+
+#OrderMeal { position: absolute; top: 272px; left: 40px; width: 216px; height: 184px; }
+
+#Back { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#socialbutton1 { position: absolute; top: 24px; left: 40px; width: 80px; height: 80px; }
+
+#Button3 { position: absolute; top: 24px; left: 168px; width: 80px; height: 80px; }
+
+#Button4 { position: absolute; top: 144px; left: 40px; width: 80px; height: 80px; }
+
+#Button5 { position: absolute; top: 144px; left: 168px; width: 80px; height: 80px; }
+
+#Button6 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Button1 { position: absolute; top: 16px; left: 16px; width: 288px; height: 56px; }
+
+#Button11 { position: absolute; top: 16px; left: 16px; width: 288px; height: 56px; }
+
+#Button12 { position: absolute; top: 96px; left: 16px; width: 288px; height: 56px; }
+
+#Button13 { position: absolute; top: 176px; left: 16px; width: 288px; height: 56px; }
+
+#Button14 { position: absolute; top: 256px; left: 16px; width: 288px; height: 56px; }
+
+#Button15 { position: absolute; top: 336px; left: 16px; width: 288px; height: 56px; }
+
+#Button16 { position: absolute; top: 416px; left: 16px; width: 288px; height: 56px; }
+
+#Button17 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Button9 { position: absolute; top: 16px; left: 16px; width: 56px; height: 72px; }
+
+#Button24 { position: absolute; top: 16px; left: 120px; width: 152px; height: 72px; }
+
+#Button25 { position: absolute; top: 240px; left: 216px; width: 56px; height: 72px; }
+
+#Button28 { position: absolute; top: 112px; left: 16px; width: 120px; height: 96px; }
+
+#Button29 { position: absolute; top: 240px; left: 144px; width: 56px; height: 72px; }
+
+#Button34 { position: absolute; top: 336px; left: 16px; width: 56px; height: 72px; }
+
+#Button35 { position: absolute; top: 336px; left: 80px; width: 56px; height: 72px; }
+
+#Button36 { position: absolute; top: 336px; left: 144px; width: 56px; height: 72px; }
+
+#Button37 { position: absolute; top: 336px; left: 208px; width: 56px; height: 72px; }
+
+#Button38 { position: absolute; top: 416px; left: 16px; width: 56px; height: 72px; }
+
+#Button39 { position: absolute; top: 416px; left: 80px; width: 56px; height: 72px; }
+
+#Button40 { position: absolute; top: 416px; left: 144px; width: 56px; height: 72px; }
+
+#Button41 { position: absolute; top: 416px; left: 208px; width: 56px; height: 72px; }
+
+#Button43 { position: absolute; top: 16px; left: 16px; width: 80px; height: 72px; }
+
+#Button44 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Button10 { position: absolute; top: 24px; left: 16px; width: 280px; height: 104px; }
+
+#Button18 { position: absolute; top: 144px; left: 16px; width: 280px; height: 104px; }
+
+#Button42 { position: absolute; top: 264px; left: 16px; width: 280px; height: 72px; }
+
+#Button45 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Button19 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Input1 { position: absolute; top: 16px; left: 16px; width: 128px; height: 40px; }
+
+#Input2 { position: absolute; top: 72px; left: 16px; width: 128px; height: 40px; }
+
+#Input3 { position: absolute; top: 128px; left: 16px; width: 128px; height: 40px; }
+
+#Radio3 { position: absolute; top: 184px; left: 16px; width: 128px; height: 32px; }
+
+#Checkbox1 { position: absolute; top: 231px; left: 16px; width: 128px; height: 34px; }
+
+#Input4 { position: absolute; top: 280px; left: 16px; width: 128px; height: 35px; }
+
+#Input5 { position: absolute; top: 328px; left: 16px; width: 124px; height: 38px; }
+
+#Input6 { position: absolute; top: 379px; left: 16px; width: 124px; height: 34px; }
+
+#Input7 { position: absolute; top: 426px; left: 15px; width: 125px; height: 30px; }
+
+#Range1 { position: absolute; top: 467px; left: 16px; width: 122px; height: 34px; }
+
+#Input8 { position: absolute; top: 514px; left: 14px; width: 123px; height: 36px; }
+
+#Input9 { position: absolute; top: 16px; left: 160px; width: 143px; height: 43px; }
+
+#Textarea1 { position: absolute; top: 75px; left: 157px; width: 143px; height: 37px; }
+
+#Select1 { position: absolute; top: 130px; left: 158px; width: 139px; height: 33px; }
+
+#Select2 { position: absolute; top: 183px; left: 161px; width: 143px; height: 37px; }
+
+#Typeahead1 { position: absolute; top: 232px; left: 162px; width: 130px; height: 46px; }
+
+#Button20 { position: absolute; top: 504px; left: 240px; width: 64px; height: 42px; }
+
+#Label1 { position: absolute; top: 16px; left: 16px; width: 136px; height: 64px; }
+
+#Image1 { position: absolute; top: 88px; left: 16px; width: 136px; height: 64px; }
+
+#Carousel1 { position: absolute; top: 160px; left: 16px; width: 144px; height: 80px; }
+
+#Progressbar1 { position: absolute; top: 248px; left: 16px; width: 144px; height: 64px; }
+
+#HtmlContent1 { position: absolute; top: 320px; left: 16px; width: 96px; height: 104px; }
+
+#Report1 { position: absolute; top: 8px; left: 168px; width: 144px; height: 128px; }
+
+#Menu1 { position: absolute; top: 144px; left: 168px; width: 144px; height: 112px; }
+
+#Chart1 { position: absolute; top: 264px; left: 168px; width: 144px; height: 103px; }
+
+#Gauge1 { position: absolute; top: 376px; left: 120px; width: 184px; height: 42px; }
+
+#MediaPlayer1 { position: absolute; top: 432px; left: 16px; width: 96px; height: 63px; }
+
+#WebCam1 { position: absolute; top: 504px; left: 16px; width: 96px; height: 53px; }
+
+#IFrame1 { position: absolute; top: 427px; left: 128px; width: 176px; height: 63px; }
+
+#Container1 { position: absolute; top: 507px; left: 124px; width: 106px; height: 48px; }

@@ -1,0 +1,2 @@
+
+window.App.Cordova = true;
