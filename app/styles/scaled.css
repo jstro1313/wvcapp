@@ -1,153 +1,43 @@
 ﻿
 
-html, body { width: 320px; height: 568px; }
+html, body { width: 320px; height: 480px; }
 
-#CalenderMainPage { position: absolute; top: 4.23%; left: 5.00%; width: 25.00%; height: 12.68%; }
+#Main { background-color: #808080; }
 
-#RedCafeMainPage { position: absolute; top: 4.23%; left: 37.50%; width: 25.00%; height: 12.68%; }
+#Image11 { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 100.00%; }
 
-#Entrata { position: absolute; top: 4.23%; left: 70.00%; width: 25.00%; height: 12.68%; }
+#Image8 { position: absolute; top: 3.33%; left: 5.00%; width: 27.50%; height: 20.00%; }
 
-#MainMainPage { position: absolute; top: 23.94%; left: 30.00%; width: 65.00%; height: 49.30%; }
+#Image6 { position: absolute; top: 3.33%; left: 37.50%; width: 28.44%; height: 20.00%; }
 
-#Stuff2 { position: absolute; top: 83.10%; left: 5.00%; width: 25.00%; height: 12.68%; }
+#Image4 { position: absolute; top: 3.33%; left: 70.00%; width: 27.19%; height: 20.00%; }
 
-#CampusMap { position: absolute; top: 83.10%; left: 37.50%; width: 25.00%; height: 12.68%; }
+#Image12 { position: absolute; top: 28.33%; left: 37.50%; width: 27.50%; height: 20.00%; }
 
-#Stuff4 { position: absolute; top: 83.10%; left: 70.00%; width: 25.00%; height: 12.68%; }
+#FAQImage { position: absolute; top: 28.33%; left: 5.00%; width: 27.50%; height: 20.00%; }
 
-#Button8 { position: absolute; top: 36.62%; left: 5.00%; width: 21.56%; height: 16.90%; }
+#Image2 { position: absolute; top: 28.33%; left: 70.00%; width: 26.25%; height: 20.00%; }
 
-#Button7 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
+#FAQiFrame { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 90.00%; }
 
-#Button2 { position: absolute; top: 8.45%; left: 12.50%; width: 66.56%; height: 26.76%; }
+#Button8 { position: absolute; top: 90.00%; left: 32.50%; width: 35.00%; height: 10.00%; }
 
-#OrderMeal { position: absolute; top: 47.89%; left: 12.50%; width: 67.50%; height: 32.39%; }
+#Button7 { position: absolute; top: 90.00%; left: 0.00%; width: 35.00%; height: 10.00%; }
 
-#Back { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
+#Button9 { position: absolute; top: 90.00%; left: 65.00%; width: 35.00%; height: 10.00%; }
 
-#socialbutton1 { position: absolute; top: 4.23%; left: 12.50%; width: 25.00%; height: 14.08%; }
+#WVCSiteiFrame { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 90.00%; }
 
-#Button3 { position: absolute; top: 4.23%; left: 52.50%; width: 25.00%; height: 14.08%; }
+#Button5 { position: absolute; top: 90.00%; left: 32.50%; width: 35.00%; height: 10.00%; }
 
-#Button4 { position: absolute; top: 25.35%; left: 12.50%; width: 25.00%; height: 14.08%; }
+#Button4 { position: absolute; top: 90.00%; left: 0.00%; width: 35.00%; height: 10.00%; }
 
-#Button5 { position: absolute; top: 25.35%; left: 52.50%; width: 25.00%; height: 14.08%; }
+#Button6 { position: absolute; top: 90.00%; left: 65.00%; width: 35.00%; height: 10.00%; }
 
-#Button6 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
+#EntrataiFrame { position: absolute; top: 0.00%; left: 0.00%; width: 100.00%; height: 90.00%; }
 
-#Button1 { position: absolute; top: 2.82%; left: 5.00%; width: 90.00%; height: 9.86%; }
+#Button2 { position: absolute; top: 90.00%; left: 32.50%; width: 35.00%; height: 10.00%; }
 
-#Button11 { position: absolute; top: 2.82%; left: 5.00%; width: 90.00%; height: 9.86%; }
+#Button1 { position: absolute; top: 90.00%; left: 0.00%; width: 35.00%; height: 10.00%; }
 
-#Button12 { position: absolute; top: 16.90%; left: 5.00%; width: 90.00%; height: 9.86%; }
-
-#Button13 { position: absolute; top: 30.99%; left: 5.00%; width: 90.00%; height: 9.86%; }
-
-#Button14 { position: absolute; top: 45.07%; left: 5.00%; width: 90.00%; height: 9.86%; }
-
-#Button15 { position: absolute; top: 59.15%; left: 5.00%; width: 90.00%; height: 9.86%; }
-
-#Button16 { position: absolute; top: 73.24%; left: 5.00%; width: 90.00%; height: 9.86%; }
-
-#Button17 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
-
-#Button9 { position: absolute; top: 2.82%; left: 5.00%; width: 17.50%; height: 12.68%; }
-
-#Button24 { position: absolute; top: 2.82%; left: 37.50%; width: 47.50%; height: 12.68%; }
-
-#Button25 { position: absolute; top: 42.25%; left: 67.50%; width: 17.50%; height: 12.68%; }
-
-#Button28 { position: absolute; top: 19.72%; left: 5.00%; width: 37.50%; height: 16.90%; }
-
-#Button29 { position: absolute; top: 42.25%; left: 45.00%; width: 17.50%; height: 12.68%; }
-
-#Button34 { position: absolute; top: 59.15%; left: 5.00%; width: 17.50%; height: 12.68%; }
-
-#Button35 { position: absolute; top: 59.15%; left: 25.00%; width: 17.50%; height: 12.68%; }
-
-#Button36 { position: absolute; top: 59.15%; left: 45.00%; width: 17.50%; height: 12.68%; }
-
-#Button37 { position: absolute; top: 59.15%; left: 65.00%; width: 17.50%; height: 12.68%; }
-
-#Button38 { position: absolute; top: 73.24%; left: 5.00%; width: 17.50%; height: 12.68%; }
-
-#Button39 { position: absolute; top: 73.24%; left: 25.00%; width: 17.50%; height: 12.68%; }
-
-#Button40 { position: absolute; top: 73.24%; left: 45.00%; width: 17.50%; height: 12.68%; }
-
-#Button41 { position: absolute; top: 73.24%; left: 65.00%; width: 17.50%; height: 12.68%; }
-
-#Button43 { position: absolute; top: 2.82%; left: 5.00%; width: 25.00%; height: 12.68%; }
-
-#Button44 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
-
-#Button10 { position: absolute; top: 4.23%; left: 5.00%; width: 87.50%; height: 18.31%; }
-
-#Button18 { position: absolute; top: 25.35%; left: 5.00%; width: 87.50%; height: 18.31%; }
-
-#Button42 { position: absolute; top: 46.48%; left: 5.00%; width: 87.50%; height: 12.68%; }
-
-#Button45 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
-
-#Button19 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
-
-#Input1 { position: absolute; top: 2.82%; left: 5.00%; width: 40.00%; height: 7.04%; }
-
-#Input2 { position: absolute; top: 12.68%; left: 5.00%; width: 40.00%; height: 7.04%; }
-
-#Input3 { position: absolute; top: 22.54%; left: 5.00%; width: 40.00%; height: 7.04%; }
-
-#Radio3 { position: absolute; top: 32.39%; left: 5.00%; width: 40.00%; height: 5.63%; }
-
-#Checkbox1 { position: absolute; top: 40.67%; left: 5.00%; width: 40.00%; height: 5.99%; }
-
-#Input4 { position: absolute; top: 49.30%; left: 5.00%; width: 40.00%; height: 6.16%; }
-
-#Input5 { position: absolute; top: 57.75%; left: 5.00%; width: 38.75%; height: 6.69%; }
-
-#Input6 { position: absolute; top: 66.73%; left: 5.00%; width: 38.75%; height: 5.99%; }
-
-#Input7 { position: absolute; top: 75.00%; left: 4.69%; width: 39.06%; height: 5.28%; }
-
-#Range1 { position: absolute; top: 82.22%; left: 5.00%; width: 38.13%; height: 5.99%; }
-
-#Input8 { position: absolute; top: 90.49%; left: 4.38%; width: 38.44%; height: 6.34%; }
-
-#Input9 { position: absolute; top: 2.82%; left: 50.00%; width: 44.69%; height: 7.57%; }
-
-#Textarea1 { position: absolute; top: 13.20%; left: 49.06%; width: 44.69%; height: 6.51%; }
-
-#Select1 { position: absolute; top: 22.89%; left: 49.38%; width: 43.44%; height: 5.81%; }
-
-#Select2 { position: absolute; top: 32.22%; left: 50.31%; width: 44.69%; height: 6.51%; }
-
-#Typeahead1 { position: absolute; top: 40.85%; left: 50.63%; width: 40.63%; height: 8.10%; }
-
-#Button20 { position: absolute; top: 88.73%; left: 75.00%; width: 20.00%; height: 7.39%; }
-
-#Label1 { position: absolute; top: 2.82%; left: 5.00%; width: 42.50%; height: 11.27%; }
-
-#Image1 { position: absolute; top: 15.49%; left: 5.00%; width: 42.50%; height: 11.27%; }
-
-#Carousel1 { position: absolute; top: 28.17%; left: 5.00%; width: 45.00%; height: 14.08%; }
-
-#Progressbar1 { position: absolute; top: 43.66%; left: 5.00%; width: 45.00%; height: 11.27%; }
-
-#HtmlContent1 { position: absolute; top: 56.34%; left: 5.00%; width: 30.00%; height: 18.31%; }
-
-#Report1 { position: absolute; top: 1.41%; left: 52.50%; width: 45.00%; height: 22.54%; }
-
-#Menu1 { position: absolute; top: 25.35%; left: 52.50%; width: 45.00%; height: 19.72%; }
-
-#Chart1 { position: absolute; top: 46.48%; left: 52.50%; width: 45.00%; height: 18.13%; }
-
-#Gauge1 { position: absolute; top: 66.20%; left: 37.50%; width: 57.50%; height: 7.39%; }
-
-#MediaPlayer1 { position: absolute; top: 76.06%; left: 5.00%; width: 30.00%; height: 11.09%; }
-
-#WebCam1 { position: absolute; top: 88.73%; left: 5.00%; width: 30.00%; height: 9.33%; }
-
-#IFrame1 { position: absolute; top: 75.18%; left: 40.00%; width: 55.00%; height: 11.09%; }
-
-#Container1 { position: absolute; top: 89.26%; left: 38.75%; width: 33.13%; height: 8.45%; }
+#Button3 { position: absolute; top: 90.00%; left: 65.00%; width: 35.00%; height: 10.00%; }
